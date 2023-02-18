@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "position_name": "Software Engineer",
+        "job_location": "Bangalore",
+        "company_name": "ABC Inc."
+    },
+    {
+        "id": 2,
+        "position_name": "Data Analyst",
+        "job_location": "Mumbai",
+        "company_name": "XYZ Corp."
+    },
+    {
+        "id": 3,
+        "position_name": "Web Developer",
+        "job_location": "Delhi",
+        "company_name": "PQR Ltd."
+    },
+    {
+        "id": 4,
+        "position_name": "Network Engineer",
+        "job_location": "Chennai",
+        "company_name": "DEF Solutions"
+    },
+    {
+        "id": 5,
+        "position_name": "UI/UX Designer",
+        "job_location": "Hyderabad",
+        "company_name": "GHI Inc."
+    },
+    {
+        "id": 6,
+        "position_name": "Cybersecurity Analyst",
+        "job_location": "Pune",
+        "company_name": "LMN Security"
+    }
+]
