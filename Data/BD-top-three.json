@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Grameenphone IT",
+        "location": "Dhaka"
+    },
+    {
+        "id": 2,
+        "name": "BRAC IT Services",
+        "location": "Dhaka"
+    },
+    {
+        "id": 3,
+        "name": "Aamra Technologies",
+        "location": "Dhaka"
+    }
+]

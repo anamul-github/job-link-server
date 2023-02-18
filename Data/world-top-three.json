@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "location": "Cupertino, California, USA"
+    },
+    {
+        "id": 2,
+        "name": "Microsoft",
+        "location": "Redmond, Washington, USA"
+    },
+    {
+        "id": 3,
+        "name": "Alphabet Inc.",
+        "location": "Mountain View, California, USA"
+    }
+]

@@ -8,6 +8,8 @@ const port = process.env.PORT || 5000;
 
 const fresherJobs = require('./Data/fresher-job.json');
 const experiencedJobs = require('./Data/experienced-jobs.json');
+const bdCompanies = require('./Data/BD-top-three.json');
+const worldCompanies = require('./Data/world-top-three.json');
 
 app.get('/', (req, res) => {
     res.send('JobLink Server Running');
@@ -19,6 +21,12 @@ app.get('/fresher-jobs', (req, res) => {
 
 app.get('/experiencedJobs', (req, res) => {
     res.send(experiencedJobs);
+});
+app.get('/bdCompanies', (req, res) => {
+    res.send(bdCompanies);
+});
+app.get('/worldCompanies', (req, res) => {
+    res.send(worldCompanies);
 });
 
 
